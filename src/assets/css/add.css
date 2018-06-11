@@ -1,0 +1,12 @@
+.img {
+  max-width: 20%;
+}
+
+.actions::after {
+  display: none;
+}
+
+.image {
+  max-width: 80%;
+  padding-left: 20%;
+}
