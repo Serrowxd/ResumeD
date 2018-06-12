@@ -6,7 +6,7 @@ import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/pic02.jpg'
 import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
-import img from '../assets/images/no_text.png'
+import img from '../assets/images/me.jpg'
 
 class Homepage extends React.Component {
   render() {
@@ -68,7 +68,7 @@ class Homepage extends React.Component {
             <div className="col-6">
               <header className="major">
                 <h2>
-                  Let's get to the reason you're here,<br />
+                  Let's get to the reason you're here, <br />
                   <strong>What I can do</strong>
                 </h2>
               </header>

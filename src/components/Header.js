@@ -11,7 +11,7 @@ class Header extends React.Component {
             {/* <img src={img} className="img" alt="ShaPrint" /> */}
           </span>
           <h1>
-            Hi, I'm <strong>Kevin Jolley,</strong>
+            Hi, I'm <strong>Kevin Jolley, </strong>
             <br />
             JavaScript Fanatic, Develeoper, and Avid Writer.
           </h1>
